@@ -1,6 +1,6 @@
 # 🎬 Movie Slideshow
 
-**Movie Slideshow** is a simple and elegant React-based project that displays a slideshow of movie images using `setInterval`. It automatically transitions between movie slides, providing a smooth and hands-free viewing experience.
+**Movie Slideshow** is a simple and elegant js-based project that displays a slideshow of movie images using `setInterval`. It automatically transitions between movie slides, providing a smooth and hands-free viewing experience.
 
 ---
 
